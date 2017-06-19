@@ -1,0 +1,53 @@
+/* 
+  Localizable.strings
+  BLETest
+
+  Created by Allan Liu on 16/9/24.
+  Copyright © 2016年 GO. All rights reserved.
+*/
+
+"DFU" = "DFU";
+"TEST" = "TEST";
+"UART" = "UART";
+"search device" = "CONNECT";
+"search device title" = "Search Device";
+"Auto" = "Auto";
+"Monitor" = "Monitor";
+
+"DIS CONFIGURE" = "DIS CONFIGURE";
+"Close RF" = "Close RF";
+"update" = "Update";
+"Manufacture Name" = "Manufacture Name:";
+"Model Number" = "Model Number:";
+"Serial Number" = "Serial Number:";
+"Hardware Revision" = "Hardware Revision:";
+"Firmware Revision" = "Firmware Revision:";
+"Mac Address" = "Mac Address:";
+
+"LED Test" = "LED Test";
+"Red LED" = "Red LED:";
+"Green LED" = "Green LED:";
+"Blue LED" = "Blue LED:";
+"Light" = "Light";
+"Close" = "Close";
+"Flash" = "Flash";
+"Breath" = "Breath";
+
+"Motor Test" = "Vibration Motor Test";
+"Vibration Motor" = "Vibration Motor";
+"Open" = "Open";
+
+"Tap Test" = "Tap Test";
+"Tap Count" = "Tap Count:";
+
+"Please Select Device" = "Please Connect Device";
+"setting" = "SETTINGS";
+
+"Receive Data" = "Receive Data";
+"Clear" = "Clear";
+"HEX Display" = "HEX Display";
+"Receive Byte" = "Receive Byte";
+"Send Data" = "Send Data";
+"Send" = "Send";
+"HEX Send" = "HEX Send";
+"Send Byte" = "Send Byte";

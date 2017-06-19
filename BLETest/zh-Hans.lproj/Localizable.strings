@@ -1,0 +1,53 @@
+/* 
+  Localizable.strings
+  BLETest
+
+  Created by Allan Liu on 16/9/24.
+  Copyright © 2016年 GO. All rights reserved.
+*/
+
+"DFU" = "DFU";
+"TEST" = "TEST";
+"UART" = "UART";
+"search device" = "搜索设备";
+"search device title" = "搜索设备";
+"Auto" = "自动";
+"Monitor" = "监听";
+
+"DIS CONFIGURE" = "DIS配置";
+"Close RF" = "关闭射频";
+"update" = "更新";
+"Manufacture Name" = "制造商:";
+"Model Number" = "型号:";
+"Serial Number" = "序列号:";
+"Hardware Revision" = "硬件版本:";
+"Firmware Revision" = "固件版本:";
+"Mac Address" = "MAC地址:";
+
+"LED Test" = "LED测试";
+"Red LED" = "红色LED:";
+"Green LED" = "绿色LED:";
+"Blue LED" = "蓝色LED:";
+"Light" = "亮";
+"Close" = "关";
+"Flash" = "闪";
+"Breath" = "呼吸";
+
+"Motor Test" = "振动马达测试";
+"Vibration Motor" = "振动马达";
+"Open" = "开";
+
+"Tap Test" = "Tap测试";
+"Tap Count" = "Tap次数:";
+
+"Please Select Device" = "请连接设备";
+"setting" = "配置";
+
+"Receive Data" = "接收数据";
+"Clear" = "清除";
+"HEX Display" = "HEX显示";
+"Receive Byte" = "接收字节";
+"Send Data" = "发送数据";
+"Send" = "发送";
+"HEX Send" = "HEX发送";
+"Send Byte" = "发送字节";
